@@ -8,4 +8,4 @@ var fahrenheit = 0
 var celcious = fahrenheitToCelcious(fahrenheit)
 
 var message = `${fahrenheit} fahrenheit = ${celcious} deg celcious`
-console.log(message);
+console.log(message)
